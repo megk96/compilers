@@ -1,0 +1,25 @@
+function func1:
+	return float x
+	arg int y, float z
+		x = y * z
+/*This is 
+a multiline comment
+to make sure
+it is
+working */
+main:
+	return int 0
+	arg null
+		int yz = 435
+		float 2xyz = 5.44324
+		int bad_variable = 5.534343233
+		float another.bad.variable = --4532.543
+		if(x# == -2000):
+			string s = "It is -2000"  //Single line comment
+		endif
+		else
+			string s = "It may be < -2000"
+		endelse
+		while(x <= -2000.01):
+			x = x + 100
+		endwhile

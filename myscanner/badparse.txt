@@ -1,0 +1,18 @@
+function func1:
+	return float x
+	arg int y, float z
+		x = y * * z
+main:
+	return float int 0
+	arg null
+		int y = -435
+		float z = 5.44324
+		if(x < == -2000):
+			string s = "It is -2000"  
+		endif
+		else
+			x = x - 1
+		endelse
+		while(x < -2000.01):
+			x = x + 100
+		endwhile
